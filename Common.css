@@ -1,0 +1,34 @@
+body {
+}
+.head{
+    text-align:center;
+}
+.panel1{
+    background-color:black;
+    padding:10px 0px 10px 0px;
+}
+.hmenu{
+     margin:5px;
+}
+.lab1{
+    font-size:8px;
+}
+.lb1{
+    margin-right:175px;
+}
+.drp{
+    margin-right: 60px;
+}
+.lb2{
+    margin-right: 175px;
+}
+.btn1{
+    margin: 5px;
+}
+.panel{
+    position:fixed;
+    left:35%;
+}
+.table{
+    border:2px solid;  
+}
